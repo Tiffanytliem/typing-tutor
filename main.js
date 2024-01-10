@@ -3,7 +3,9 @@ let element = document.querySelector('.char1');
 let character = element.textContent;
 let selector = 'char' + counter;
 let wrongChar = 0;
+
 window.addEventListener('keydown', check);
+
 function check(event) {
   if (event.key === character) {
     element.className = selector + ' correct';
