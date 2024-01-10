@@ -1,3 +1,3 @@
-# ajax-project
+# typing-tutor
 
-A dynamic HTML, CSS, and JavaScript solo project.
+A simple typing tutor game.
